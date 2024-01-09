@@ -44,9 +44,9 @@ You can download my CV as a PDF from [here](https://drive.google.com/file/d/10I9
 
 **Website Sablanca**
 
-****Database****
-- BFD [here](https://drive.google.com/file/d/1VrGeEeKDURUUWvWNpEQDjYsnmr_ceE-N/view?usp=sharing).
-- ERD [here](https://drive.google.com/file/d/1vtlFsSCPiMc8tffDcv8MRAAkd7QeXM0_/view?usp=sharing).
-**Code**
-- Proficient in programming using C#, ASP.NET MVC.
-- Code [here](https://github.com/Tuongvy2910/Web-MVC-SABLANCE).
+- ****Database****
+    - BFD [here](https://drive.google.com/file/d/1VrGeEeKDURUUWvWNpEQDjYsnmr_ceE-N/view?usp=sharing).
+    - ERD [here](https://drive.google.com/file/d/1vtlFsSCPiMc8tffDcv8MRAAkd7QeXM0_/view?usp=sharing).
+- **Code**
+    - Proficient in programming using C#, ASP.NET MVC.
+    - Code [here](https://github.com/Tuongvy2910/Web-MVC-SABLANCE).
